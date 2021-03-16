@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SlowSpeedChase
+- 👋 Hi, I’m Chase!
 - 👀 I’m interested in data analytics! Data is the future curreny that will be important for businesses to optimize efficency and drive growth.
 - 🌱 I’m currently learning Python via the data analytics path on Code Academy
 - 💞️ I’m looking to collaborate on ...
